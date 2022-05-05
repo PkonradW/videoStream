@@ -1,4 +1,4 @@
-This is a class project for Cen4010
+This is a class project for Cen4010.
 This concurrent video streaming app is built with a react front end and an express server backend using the
 socket.io framework.
 
