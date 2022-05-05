@@ -37,7 +37,7 @@ const Room = (props) => {
 					extra={[
 						<Link key="3" to="/">Change Room</Link>,
 					]}
-					avatar={{ src: 'https://github.com/lnields/videoStream/blob/finsihing-touches/client/public/bobo.png?raw=true' }}
+					avatar={{ src: 'https://i.imgur.com/KEYfj7M.png' }}
 				/>
 		</div>
 			<div>

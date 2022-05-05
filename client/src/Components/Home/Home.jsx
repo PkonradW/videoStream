@@ -30,7 +30,7 @@ const Home = () => {
 		<PageHeader
 			className="site-page-header"
 			title="Bob"
-			avatar={{ src: 'https://github.com/lnields/videoStream/blob/master/client/public/bobo.png?raw=true' }}
+			avatar={{ src: 'https://i.imgur.com/KEYfj7M.png' }}
 		/>
 	</div>
     <div className="home-container">
